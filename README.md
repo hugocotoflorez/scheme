@@ -5,3 +5,5 @@ like the most.
 I choose scheme because I want to try a lisp-like functional language.
 
 This is just a bunch of useless scheme scripts.
+
+DISCLAIMER: Chatgpt didn't smell this code
